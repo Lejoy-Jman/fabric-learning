@@ -9,3 +9,9 @@
 **Connection:**
 * A connection is the configuration used to connect Microsoft Fabric to a specific data source.
 * It includes details like the data source type, credentials, and other settings required for data access.
+
+**Setup Gateway in Device**
+* Download and install the Microsoft On-premise Gateway.
+* URL - https://download.microsoft.com/download/D/A/1/DA1FDDB8-6DA8-4F50-B4D0-18019591E182/GatewayInstall.exe
+* Make sure the device met the minimum requirements - Refer: https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install#minimum-requirements
+* 
