@@ -1,4 +1,4 @@
-# Fabric Gateway and Connections
+# Gateway and Connections
 **What are Gateways and Connections in Microsoft Fabric?**
 **Gateway:**
 * A gateway acts as a bridge between on-premises data and Microsoft Fabric services in the cloud.
