@@ -17,7 +17,7 @@
 **Adding Users to the Connection**
 * Users from our organization can now be added to the gateway without needing to know the credentials or creating their own connections.
     * Select the On-premises data gateways tab
-    * ![image](https://github.com/user-attachments/assets/ece7747f-2bc8-404c-93e1-b973d3c6326a)
+    * <img width="490" alt="image" src="https://github.com/user-attachments/assets/631855b8-79a3-4cca-967a-ca4848cde9dd">
     * From the ... menu, select Manage users
     * Search for a user or security group to authorize to access the gateway
     * Select the user or group just added to the ACL
