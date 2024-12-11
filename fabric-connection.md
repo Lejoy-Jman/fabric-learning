@@ -1,1 +1,1 @@
-#**Connecting Gateway in Fabric**
+# **Connecting Gateway in Fabric**
