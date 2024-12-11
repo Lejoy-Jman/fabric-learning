@@ -22,6 +22,10 @@ _**If any error occurs, restarting the device and rerunning the installation sho
 * ![image](https://github.com/user-attachments/assets/55af306d-dfc0-47c1-b4dd-a828b0e51a0c)
 * Review the details and close.
 * ![image](https://github.com/user-attachments/assets/e225606d-1ce4-4897-a9ef-50174260d469)
+* Your Fabric tenant can be configured to allow all users to create their own connections to gateways, or this permission can be restricted by default and authorized to users explicitely.
+* ![image](https://github.com/user-attachments/assets/2ffb2a75-2ff0-480b-8618-2cdea9aa1d2b)
+  
+
   
 
 
