@@ -37,6 +37,7 @@
      6. Open the **Database** drop-down menu.  
      7. Select the desired source database (e.g., on the remote SQL1 server), and click **Next**.
        <img width="565" alt="image" src="https://github.com/user-attachments/assets/c0d8b232-103c-4b64-9c61-5102c73ab6c9" />
+     8. Select the desired table from the list.
    
 
   
