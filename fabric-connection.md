@@ -24,3 +24,20 @@
     * Select the appropriate level of authorization for them.
     * ![image](https://github.com/user-attachments/assets/f75ebac1-c836-46e2-b533-5687ce22ab8a)
 
+**Testing the new connection** 
+* Create a simple copy data activity to test the new connection.
+     1. Add a **Copy Data** task using the Copy Assistant.
+       ![image](https://github.com/user-attachments/assets/88949091-61ee-4c31-8693-6078c4408d03)
+     2. Select the appropriate data source type (e.g., SQL Server), and click **Next**.
+       ![image](https://github.com/user-attachments/assets/90bda502-e2da-4649-8479-78015ee94662)
+     3. Choose **Existing Connection**.  
+     4. Open the drop-down menu to view the available connections.  
+     5. Select the connection to the gateway created, and click **Next**.
+       ![image](https://github.com/user-attachments/assets/4077e43f-d562-43a3-b56e-c3fd9a6a5586)
+     6. Open the **Database** drop-down menu.  
+     7. Select the desired source database (e.g., on the remote SQL1 server), and click **Next**.
+       <img width="565" alt="image" src="https://github.com/user-attachments/assets/c0d8b232-103c-4b64-9c61-5102c73ab6c9" />
+   
+
+  
+
