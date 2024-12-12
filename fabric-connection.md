@@ -38,6 +38,9 @@
      7. Select the desired source database (e.g., on the remote SQL1 server), and click **Next**.
        <img width="565" alt="image" src="https://github.com/user-attachments/assets/c0d8b232-103c-4b64-9c61-5102c73ab6c9" />
      8. Select the desired table from the list.
+     9. Select the target lakehouse.
+     10. ![image](https://github.com/user-attachments/assets/7b66f096-5983-4332-aeda-5ec3a4c6aa5a)
+
    
 
   
